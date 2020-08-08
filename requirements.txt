@@ -1,0 +1,6 @@
+# kafka-python
+deprecated
+pymongo
+pytest
+pytest-asyncio
+faust
